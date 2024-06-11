@@ -1,0 +1,30 @@
+.body1{
+    background-color: coral;
+}
+.page{
+       border: solid chocolate;
+       width: 700px;
+       height:auto;
+       background-color: darkkhaki;
+       text-align: center;
+       position: fixed;
+       top: 150px;
+       left: 300px;
+}
+.heading{
+    background-color: rgb(137, 226, 43);
+    color: rgb(60, 159, 159);
+    text-align: center;
+    padding-left: 15px;
+}
+.heading2{
+    background-color: blanchedalmond;
+    color: darkorchid;
+    text-align: center;
+    padding-left: 15px;
+
+}
+.sub{
+    text-align: center;
+    box-shadow: inset;
+}
